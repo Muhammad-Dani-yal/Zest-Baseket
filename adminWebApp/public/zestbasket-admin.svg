@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none">
+  <title>ZestBasket Admin</title>
+  <desc>A golden grocery basket with a fresh green leaf and a purple administration badge.</desc>
+  <defs>
+    <linearGradient id="base" x1="9" y1="3" x2="82" y2="96" gradientUnits="userSpaceOnUse"><stop stop-color="#48306D"/><stop offset="1" stop-color="#25153E"/></linearGradient>
+    <linearGradient id="basket" x1="29" y1="43" x2="64" y2="75" gradientUnits="userSpaceOnUse"><stop stop-color="#FFE2A0"/><stop offset="1" stop-color="#F3B75C"/></linearGradient>
+    <linearGradient id="leaf" x1="49" y1="16" x2="69" y2="35" gradientUnits="userSpaceOnUse"><stop stop-color="#C4ED9A"/><stop offset="1" stop-color="#7EC66A"/></linearGradient>
+  </defs>
+  <rect x="2" y="2" width="92" height="92" rx="27" fill="url(#base)"/>
+  <rect x="2.75" y="2.75" width="90.5" height="90.5" rx="26.25" stroke="#FFFFFF" stroke-opacity=".15" stroke-width="1.5"/>
+  <path d="M32 44c0-10 5-17 14-17s14 7 14 17" stroke="#FFF5DD" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M48 30c-1-12 9-17 21-14-1 12-9 19-21 14Z" fill="url(#leaf)"/>
+  <path d="m50 29 11-7" stroke="#3F8550" stroke-opacity=".6" stroke-width="1.7" stroke-linecap="round"/>
+  <path d="m23 46 6 22a7 7 0 0 0 7 5h21a7 7 0 0 0 7-5l6-22H23Z" fill="url(#basket)"/>
+  <path d="M22 46h49" stroke="#FFF0C9" stroke-width="5.5" stroke-linecap="round"/>
+  <path d="m36 55 2 10m9-10v10m11-10-2 10" stroke="#805435" stroke-opacity=".65" stroke-width="3.4" stroke-linecap="round"/>
+  <rect x="61" y="60" width="27" height="27" rx="9" fill="#AA87E7" stroke="#302048" stroke-width="4"/>
+  <rect x="68" y="67" width="5" height="5" rx="1.2" fill="#FFF9EF"/>
+  <rect x="76" y="67" width="5" height="5" rx="1.2" fill="#FFF9EF"/>
+  <rect x="68" y="75" width="5" height="5" rx="1.2" fill="#FFF9EF"/>
+  <rect x="76" y="75" width="5" height="5" rx="1.2" fill="#FFF9EF"/>
+</svg>
